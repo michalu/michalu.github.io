@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an IT Architect at Kyndryl focused on AI and NLP.
 
-My main areas of interest are:
+My main areas of interest:
 - transfer learning
 - semantic parsing / semantic role labeling
 
