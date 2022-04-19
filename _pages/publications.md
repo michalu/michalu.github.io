@@ -10,9 +10,9 @@ redirect_from:
 
 ### 2022
 
-- [LREC 2022] **[Universal Proposition Bank 2.0.](https://)**
+- [*LREC 2022] **[Universal Proposition Bank 2.0.](https://)**
 
-  Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, NGUYEN Thi Minh Huyen, HA My Linh, Khoi-Nguyen Tran, Huaiyu Zhu, Yunyao Li
+  Ishan Jindal, Alexandre Rademaker, Michał Ulewicz, Linh Ha, Huyen Nguyen, Khoi-Nguyen Tran, Huaiyu Zhu and Yunyao Li
 
 ### 2003
 
